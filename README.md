@@ -83,4 +83,4 @@ sun_gopher_go/
 - Sprite'y z plików PNG zamiast rysowania prymitywami
 - Animowane tła (paralaksa)
 - Tryb dwóch graczy
-EOF
+
