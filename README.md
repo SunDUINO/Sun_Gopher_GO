@@ -68,7 +68,7 @@ sun_gopher_go/
 ├── go.mod         – moduł Go
 ├── src/
     ├── main.go 
-├── game
+├── game/
     ├── game.go        – główna pętla gry, rysowanie
     ├── player.go      – gracz: ruch, kolizje, animacja
     ├── entities.go    – monety i wrogowie
