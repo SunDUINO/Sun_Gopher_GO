@@ -1,3 +1,20 @@
+/*
+ * ╔════════════════════════════════════════════════════════════════╗
+ * ║ sun_gopher_go                                                  ║
+ * ║ Plik / File: level.go                                          ║
+ * ╠════════════════════════════════════════════════════════════════╣
+ * ║ Autor / Author:                                                ║
+ * ║   SunRiver                                                     ║
+ * ║   Lothar TeaM                                                  ║
+ * ╠════════════════════════════════════════════════════════════════╣
+ * ║ GitHub  : sun_gopher_go                                        ║
+ * ║ WWW     : https://lothar-team.pl                               ║
+ * ║ Forum   : https://forum.lothar-team.pl                         ║
+ * ║                                                                ║
+ * ║ Licencja / License: MIT                                        ║
+ * ║ Rok / Year: 2026                                               ║
+ * ╚════════════════════════════════════════════════════════════════╝
+ */
 package game
 
 // Level map – 30 columns × 17 rows
