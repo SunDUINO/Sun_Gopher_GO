@@ -41,6 +41,9 @@ go mod tidy
 go run .
 ```
 
+### UWAGA !!  Może być konieczna edycja go.mod i importu w main jeśli sklonujesz do innego projektu
+
+
 ## Sterowanie
 
 | Klawisz | Akcja |
@@ -61,14 +64,16 @@ go run .
 ## Struktura projektu
 
 ```
-giana-go/
-├── main.go        – punkt wejścia, konfiguracja okna
-├── game.go        – główna pętla gry, rysowanie
-├── player.go      – gracz: ruch, kolizje, animacja
-├── entities.go    – monety i wrogowie
-├── level.go       – dane poziomu (mapa kafelków)
-├── constants.go   – stałe i typy
-└── go.mod         – moduł Go
+sun_gopher_go/
+├── go.mod         – moduł Go
+├── src/
+    ├── main.go 
+├── game/
+    ├── game.go        – główna pętla gry, rysowanie
+    ├── player.go      – gracz: ruch, kolizje, animacja
+    ├── entities.go    – monety i wrogowie
+    ├── level.go       – dane poziomu (mapa kafelków)
+    ├── constants.go   – stałe i typy
 ```
 
 ## Rozszerzenia (pomysły)
