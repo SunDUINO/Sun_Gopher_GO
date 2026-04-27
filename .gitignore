@@ -1,0 +1,5 @@
+# Pliki wykonywalne
+*.exe
+sun_gopher_go
+# Logi i pliki tymczasowe
+*.log
